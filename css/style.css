@@ -1,0 +1,47 @@
+/*header and nav bar*/
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+header {
+  background-color: #ffffff;
+  padding: 20px 0;
+  border-bottom: 1px solid #e0e0e0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo img {
+  max-height: 50px;
+}
+
+.page-title {
+  font-size: 24px;
+  color: #2C6CA3;
+  margin: 0;
+  margin-left: 20px;
+}
+
+
+
+/*main page*/
+
+.main-content {
+  text-align: center;
+  padding: 100px 20px;
+  background-color: #ffffff;
+}
+
+.main-content h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+  color: #333333;
+}
+
+.main-content p {
+  font-size: 20px;
+  color: #555555;
+}
