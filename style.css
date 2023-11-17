@@ -1,0 +1,26 @@
+/*header and nav bar*/
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+header {
+  background-color: #ffffff;
+  padding: 20px 0;
+  border-bottom: 1px solid #e0e0e0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo img {
+  max-height: 50px;
+}
+
+.page-title {
+  font-size: 24px;
+  color: #2C6CA3;
+  margin: 0;
+  margin-left: 20px;
+}
