@@ -24,3 +24,24 @@ header {
   margin: 0;
   margin-left: 20px;
 }
+
+
+
+/*main page*/
+
+.main-content {
+  text-align: center;
+  padding: 100px 20px;
+  background-color: #ffffff;
+}
+
+.main-content h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+  color: #333333;
+}
+
+.main-content p {
+  font-size: 20px;
+  color: #555555;
+}
